@@ -14,4 +14,4 @@ There are no scores or time limits right now, player goes to home location at ev
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Empty
